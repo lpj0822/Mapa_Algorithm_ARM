@@ -1,0 +1,10 @@
+libwissen-objs +=src/fcwst/CMulitTrack.o
+libwissen-objs +=src/fcwst/fast.o
+libwissen-objs +=src/fcwst/Geometry.o
+libwissen-objs +=src/fcwst/harriscroner.o
+libwissen-objs +=src/fcwst/kalmanfilter.o
+libwissen-objs +=src/fcwst/ObjGroup.o
+libwissen-objs +=src/fcwst/preprocess.o
+libwissen-objs +=src/fcwst/surf.o
+libwissen-objs +=src/fcwst/table.o
+libwissen-objs +=src/fcwst/trajectory.o
